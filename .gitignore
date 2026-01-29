@@ -1,0 +1,4 @@
+vision3d/
+dataset/
+*.pt
+*.mp4
